@@ -1,0 +1,5 @@
+INSERT INTO mainData  ("first name","last name",category) VALUES ('John','Doe','M30')
+INSERT INTO mainData  ("first name","last name",category) VALUES ('Tom','York','M35')
+INSERT INTO mainData  ("first name","last name",category) VALUES ('Sam','Fritz','M45')
+INSERT INTO mainData  ("first name","last name",category) VALUES ('Neil','Old','M50')
+INSERT INTO mainData  ("first name","last name",category) VALUES ('Janet','Smith','K30')

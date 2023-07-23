@@ -11,5 +11,4 @@ public class ModelDemoRestController {
 	List<JqGridColumn> jqGridModel(){
 		return JqGridService.readColumnModel(DBRecord.class);
 	}
-
 }
